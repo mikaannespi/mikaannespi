@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mikayla, an <a href="www.linkedin.com/in/mikayla-ann-espinoza-7753bb269">IT Professional</a>☺</h1>
+<h1>Hi, I'm Mikayla, an <a href="www.linkedin.com/in/mikayla-ann-espinoza">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
